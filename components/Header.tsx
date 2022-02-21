@@ -30,9 +30,8 @@ export const Header = ({
         <p className="text-base">{occupation}</p>
       </div>
       <Image
-        className="rounded-md"
-        src={image_url}
-        title={name}
+         className="rounded-md"
+        src='/icons/mine.png'
         alt={"Image of " + name}
         width={avatarImageSize}
         height={avatarImageSize}

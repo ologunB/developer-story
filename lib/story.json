@@ -1,168 +1,255 @@
 {
-  "name": "Jeremiah Ogbomo",
+  "name": "Temitope Ologunbaba",
   "description": "Think. Code. Love.",
-  "image_url": "https://www.gravatar.com/avatar/96b338e14ff9d18b1b2d6e5dc279a710?s=136&d=identicon&r=PG",
+  "image_url": "https://bit.ly/3uP4rDV",
   "occupation": "Software Engineer",
-  "location": "Rotterdam, The Netherlands",
-  "email": "jeremiahogbomo@gmail.com",
-  "twitter": "jogboms",
-  "github": "jogboms",
-  "website": "https://jogboms.github.io",
+  "location": "Lagos, Nigeria",
+  "email": "ologunbabatope@gmail.com",
+  "twitter": "MasterTope_",
+  "github": "ologunb",
+  "website": "https://ologunb.github.io",
   "technologies": [
-    "javascript",
-    "typescript",
     "dartlang",
     "flutter",
-    "redux",
+    "java",
     "google-cloud-firestore",
-    "kotlin",
-    "reactjs"
+    "javascript", "firebase","android", "ios"
   ],
   "experiences": [
     {
-      "name": "Software Engineer",
-      "company": "Mendix Technology B.V",
-      "website": "https://www.mendix.com",
-      "description": "",
-      "start": "2019-04-01T00:00:00Z",
-      "end": "2021-08-31T00:00:00Z",
+      "name": "Mobile Engineer",
+      "company": "GladePay Inc",
+      "website": "https://www.glade.ng",
+      "description": "Working in a team to develop and maintain mobile applications and services using mainly Dart, Java and using Agile/SCRUM as methodology on Trello.",
+      "start": "2021-09-01T00:00:00Z",
+      "end": "2022-02-31T00:00:00Z",
       "technologies": [
         "android",
         "ios",
-        "react",
-        "react-native",
-        "electron",
-        "mobx"
+        "flutter",
+        "dart",
+        "firebase"
       ],
-      "icon": "mendix"
+      "icon": "glade"
+    },
+    {
+      "name": "Mobile Engineer",
+      "company": "eSoft Response",
+      "website": "https://esoftresponse.com",
+      "description": "I built and handle all things Mobile applications on a daily basis, Backend with Node or Firebase, Mobile with Flutter.",
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2021-10-31T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "flutter",
+        "dart",
+        "firebase", 
+        "nodejs"
+      ],
+      "icon": "esoft"
     },
     {
       "name": "Software Engineer",
-      "company": "ROM-FLEX Networks LTD",
-      "description": "I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.",
-      "start": "2017-04-01T00:00:00Z",
-      "end": "2019-03-31T00:00:00Z",
+      "company": "Checkboard Ltd",
+      "website": "https://checkboard.com",
+      "description": "I handled all things Mobile app and web app, Frontend with Flutter, Consuming APIs, Mobile with Flutter.",
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2021-10-31T00:00:00Z",
       "technologies": [
-        "angular",
-        "nativescript",
+        "android",
+        "ios",
         "flutter",
-        "redux"
+        "dart",
+        "firebase", 
+         "web"
       ],
-      "icon": "office"
+      "icon": "checkboard"
+    },
+    {
+      "name": "Mobile Engineer",
+      "company": "Sprinthub Ltd",
+      "website": "https://sprinthub.com",
+      "description": "I handled all things Mobile. Consuming APIs and Mobile with Flutter.",
+      "start": "2020-11-01T00:00:00Z",
+      "end": "2021-04-31T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "flutter",
+        "dart",
+        "firebase"
+      ],
+      "icon": "sprinthub"
     }
   ],
   "opensource": [
-    "jogboms/time.dart",
-    "jogboms/bunq.dart",
-    "jogboms/ravepay.dart",
-    "jogboms/flutter_offline",
-    "jogboms/flutter_spinkit",
-    "jogboms/tailor_made",
-    "jogboms/developer-story",
-    "jogboms/flutter_scale_aware",
-    "jogboms/pnyws",
-    "jogboms/rijksbook",
-    "jogboms/Event-Bus",
-    "jogboms/push"
+    "ologunb/tweet_sche",
+    "ologunb/Prozone"
+
   ],
   "applications": [
     {
-      "name": "Rijksbook: An art viewer.",
+      "name": "Glade",
       "date": "2022-01-01T00:00:00Z",
       "technologies": [
-        "flutter",
-        "minimal"
+        "flutter",     
+        "fcm-notification",    
+        "dart",
+        "firebase"
       ],
-      "description": "🖼 A basic Flutter app built for educational purposes.",
+      "description": "Glade is a Fintech company with a vision to make payment of bills, airtime, transfer, funding, paymemnt splitting, virtual cards transactions seamless. I Led a mobile team for the development of the company's v2 app on both iOS and Android using Flutter and Dart",
       "links": {
-        "web": "https://github.com/jogboms/rijksbook"
+        "android": "https://play.google.com/store/apps/details?id=gladepay.package.gladepaymanger&hl=en",
+        "ios": "https://apps.apple.com/ng/app/glade/id1532047379"
       },
-      "icon": "repo"
+      "icon": "glade"
     },
     {
-      "name": "Pnyws (PennyWise): An expense tracker.",
-      "date": "2020-02-01T00:00:00Z",
+      "name": "OneWay",
+      "date": "2021-02-01T00:00:00Z",
       "technologies": [
         "flutter",
         "firebase",
-        "redux"
+        "cloud-functions",
+        "fcm-notification", 
+        "maps", 
+        "google-services", 
+        "deep-link", 
+        "java","background-services"
       ],
-      "description": "Pnyws is what actually started out as a weekend vacation project for experimenting with Canvas, BoxScrollView and RenderSliver. It turned out to be clean, easy on the eyes and overall has a very smooth feel.",
+      "description": "A ride hailing application that connects riders and drivers moving in the same direction, drivers register with the company and get checked, stops are allocated to each driver according to stops on the platform, drivers can drop at any point between stops after paying and checked in by drivers, drivers are tracked in real time and seen by riders. Just like Uber. Has over 1k downloads on the stores.",
       "links": {
-        "web": "https://github.com/jogboms/pnyws"
+        "android": "https://play.google.com/store/apps/details?id=ng.oneway.rider.prod&hl=en",
+        "web":"https://drive.google.com/file/d/1sWSTCXPXEGvn3rEhjJEqb-jOJZbRXO93/view"
+    
       },
-      "icon": "repo"
+      "icon": "oneway"
     },
     {
-      "name": "BoroMe Loan App",
-      "date": "2020-01-01T00:00:00Z",
+      "name": "Ideasmarketplace",
+      "date": "2021-04-01T00:00:00Z",
       "technologies": [
         "flutter",
-        "redux",
-        "sentry"
+        "firebase",
+        "one-signal"
       ],
-      "description": "BoroMe® is a Fintech company with a vision to be the leaders in financial services and the quickest way for people to get access to personal loans. BoroMe® makes access to short-term loans fast, easy & reliable on your mobile phone. The BoroMe® App is a free & secure mobile app, available in Nigeria. Get up to N100,000 instantly with no paperwork and low interest rate!",
+      "description": "Ideasmarketplace is a platform you can put your ideas, patents, utility models, design, business plans, copyrights and trademarks up for sale or out-licensing. You can also use Ideasmarketplace to search for ideas and innovations to purchase. I worked in a team to pull this off within 2 months, converted the UI to screens and integrated APIs to it. ",
       "links": {
-        "ios": "https://apps.apple.com/us/app/id1509031811",
-        "android": "https://play.google.com/store/apps/details?id=ng.borome.apps"
+        "android": "https://play.google.com/store/apps/details?id=com.ideasmarket.app&hl=en"
       },
-      "icon": "borome"
+      "icon": "ideas"
     },
     {
-      "name": "Lumia NG",
-      "date": "2019-06-01T00:00:00Z",
+      "name": "Skidster: Freight Matching App",
+      "date": "2021-10-01T00:00:00Z",
       "technologies": [
         "flutter",
-        "redux"
+        "firebase",
+        "clous-functions",
+        "fcm-notification"
       ],
-      "description": "Lumia is a power vending platform that helps Nigerians pay both for prepaid and postpaid electricity bills from the comfort of their homes and offices.\n\nLumia makes electricity payments easy, with a unique three tap experience.",
+      "description": "Skidster helps in connecting seamlessly with truckers, shippers and transporters in Canada and the United States.",
       "links": {
-        "ios": "https://apps.apple.com/nl/app/lumia-ng/id1466499802?l=en",
-        "android": "https://play.google.com/store/apps/details?id=com.lumia.apps"
+        "android": "https://play.google.com/store/apps/details?id=com.skidster.apps&hl=en",
+        "ios": "https://apps.apple.com/us/app/skidster/id1586538641"
       },
-      "icon": "lumia"
+      "icon": "skidster"
+    },   {
+      "name": "FABAT",
+      "date": "2019-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase","java",
+        "cloud-functions",
+        "fcm-notification", "geolocation", "map"
+      ],
+      "description": "FABAT Provides a virtual marketplace to connect mechanics and customers.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.mechanics.mechapp",
+        "ios": "https://apps.apple.com/us/app/fabat/id1533732268"
+      },
+      "icon": "fabat"
     },
     {
-      "name": "GiveNow",
-      "date": "2018-08-01T00:00:00Z",
+      "name": "AutoServe",
+      "date": "2020-08-01T00:00:00Z",
       "technologies": [
         "flutter",
-        "redux"
+        "firebase", 
+        "cloud-functions",
+        "fcm-notification","geolocation", "map"
       ],
-      "description": "Givenow is a platform that enables organizations and individuals run successful donation campaigns.\n\nGivenow makes donations easy, with a unique three tap experience.",
+      "description": "Autoserve helps connect both vehicle owners and auto service providers. You can register as either a car owner or a service station.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.autoserveng.autoserve&hl=en",
+        "ios": "https://apps.apple.com/us/app/autoserve/id1550796255"
+      },
+      "icon": "serve"
+    },
+    {
+      "name": "Process Serving & Court Filing",
+      "date": "2021-11-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "clous-functions","geolocation", "map",
+        "fcm-notification", "stripe", "rest","webview"
+      ],
+      "description": "Process Serving & Court Filing works in the US and Canada to get servers(people) that can help deliver court filing and servings to other people. They get nearby servers  using geolocation and send notifications to servers in a chosen radius. The server condoms if payment has been made through stripe and go on with the serving",
+      "links": {
+        "ios": "https://play.google.com/store/apps/details?id=com.courtrunner.user",
+        "android": "https://play.google.com/store/apps/details?id=com.courtrunner.server"
+      },
+      "icon": "server"
+    },
+    {
+      "name": "CubicLease: Lease houses",
+      "date": "2021-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "clous-functions", "java", "swift",
+        "fcm-notification", "deep-link", "rest","payment-integration"
+        ,"Open banking(Tink SDK and TrueLayer SDK)"
+      ],
+      "description": "Checkboard is a service which allows people to save time when applying for your next home to buy or rent. We make things easy by taking a simple approach through our App to capture details about you. We confirm your identity through advanced AI techniques, capture your employment situation and connect you directly through open banking, to your financial accounts to verify your income, regular expenditures to complete your application.",
       "links": {
         "ios": "https://itunes.apple.com/us/app/givenow-ng/id1403238206?mt=8&ign-mpt=uo%3D4",
-        "android": "https://play.google.com/store/apps/details?id=ng.givenow.apps"
+        "android": "https://play.google.com/store/apps/details?id=com.checkboardlondon.app"
       },
-      "icon": "givenow"
+      "icon": "check"
     },
     {
-      "name": "TailorMade",
-      "date": "2018-07-01T00:00:00Z",
+      "name": "IntaChurch",
+      "date": "2021-05-01T00:00:00Z",
       "technologies": [
         "flutter",
-        "redux"
+        "firebase",
+        "clous-functions",
+        "fcm-notification"
       ],
-      "description": "Helping you manage your Fashion store daily routine.",
+      "description": "A Church management app used to manage events, watch Youtube videos, schedule events, view family connections.",
       "links": {
-        "android": "https://play.google.com/store/apps/details?id=io.github.jogboms.tailormade",
-        "web": "https://github.com/jogboms/tailor_made"
+        "android": "https://play.google.com/store/apps/details?id=com.instachurch.app&hl=en",
+        "ios": "https://apps.apple.com/gb/app/intachurch/id1569631216"
       },
-      "icon": "tailormade"
+      "icon": "church"
     },
     {
-      "name": "FixersHub",
-      "date": "2018-05-01T00:00:00Z",
+      "name": "MoneyStory",
+      "date": "2021-04-01T00:00:00Z",
       "technologies": [
-        "angular",
-        "nativescript",
-        "redux"
+        "flutter",
+        "firebase",
+        "clous-functions",
+        "fcm-notification"
       ],
-      "description": "FixersHub is a secured way to get experienced and trusted technicians in your private space with minimal security risk.",
+      "description": "The Money Story App is a financial wellbeing coaching tool that helps you achieve a positive sense of wellbeing as you live out your financial life. Our digital coaching experiences harness the power of reflection to help develop positive money behaviours and improve your relationship with money.",
       "links": {
-        "ios": "https://itunes.apple.com/us/app/fixershub/id1356161100?ls=1&mt=8"
+        "android": "https://play.google.com/store/apps/details?id=com.moneystory&hl=en"
       },
-      "icon": "fixershub"
+      "icon": "money"
     }
   ],
   "artifacts": [
@@ -175,13 +262,14 @@
         "flutter-animation",
         "flutter-layout"
       ],
-      "description": "A series of experimental user interfaces built entirely in Flutter.",
+      "description": "I joined in a series of experimental user interfaces challenges built entirely in Flutter done weekly.",
       "icon": "twitter"
     }
   ],
   "tools": [
     "Android Studio",
     "IntelliJ",
-    "VSCode"
+    "VSCode",
+    "https://javiercbk.github.io/json_to_dart/"
   ]
 }
