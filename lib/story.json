@@ -207,7 +207,7 @@
             "technologies": [
                 "flutter",
                 "firebase",
-                "clous-functions",
+                "cloud-functions",
                 "fcm-notification"
             ],
             "description": "Skidster helps in connecting seamlessly with truckers, shippers and transporters in Canada and the United States.",
@@ -254,7 +254,7 @@
             "technologies": [
                 "flutter",
                 "firebase",
-                "clous-functions", "geolocation", "map",
+                "cloud-functions", "geolocation", "map",
                 "fcm-notification", "stripe", "rest", "webview"
             ],
             "description": "Process Serving & Court Filing works in the US and Canada to get servers(people) that can help deliver court filing and servings to other people. They get nearby servers  using geolocation and send notifications to servers in a chosen radius. The server condoms if payment has been made through stripe and go on with the serving",
@@ -270,7 +270,7 @@
             "technologies": [
                 "flutter",
                 "firebase",
-                "clous-functions", "java", "swift",
+                "cloud-functions", "java", "swift",
                 "fcm-notification", "deep-link", "rest", "payment-integration", "Open banking(Tink SDK and TrueLayer SDK)"
             ],
             "description": "Checkboard is a service which allows people to save time when applying for your next home to buy or rent. We make things easy by taking a simple approach through our App to capture details about you. We confirm your identity through advanced AI techniques, capture your employment situation and connect you directly through open banking, to your financial accounts to verify your income, regular expenditures to complete your application.",
@@ -286,7 +286,7 @@
             "technologies": [
                 "flutter",
                 "firebase",
-                "clous-functions",
+                "cloud-functions",
                 "fcm-notification"
             ],
             "description": "A Church management app used to manage events, watch Youtube videos, schedule events, view family connections.",
@@ -302,7 +302,7 @@
             "technologies": [
                 "flutter",
                 "firebase",
-                "clous-functions",
+                "cloud-functions",
                 "fcm-notification"
             ],
             "description": "The Money Story App is a financial wellbeing coaching tool that helps you achieve a positive sense of wellbeing as you live out your financial life. Our digital coaching experiences harness the power of reflection to help develop positive money behaviours and improve your relationship with money.",
