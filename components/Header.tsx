@@ -10,6 +10,8 @@ type HeaderProps = {
   twitter: string;
   github: string;
   website: string;
+  email: string;
+  linkedin: string;
   technologies: string[];
 };
 
@@ -20,6 +22,8 @@ export const Header = ({
   location,
   twitter,
   github,
+  email, 
+  linkedin,
   website,
   technologies,
 }: HeaderProps) => (
@@ -50,6 +54,8 @@ export const Header = ({
         prepend="github.com/"
         href={`https://github.com/${github}`}
       />
+      <HeaderItem title={email} icon="email" href="emailto:ologunbabatope@gmail.com"/>
+      <HeaderItem title={linkedin} icon="linkedin" href={linkedin} />
       <HeaderItem title={website} icon="link" href={website} />
     </div>
     <div className="mt-4">
@@ -65,7 +71,7 @@ const HeaderItem = ({
   href,
 }: {
   title: string;
-  icon: "github" | "link" | "marker" | "twitter";
+  icon: "github" | "email" |"linkedin"|"link" | "marker" | "twitter";
   prepend?: string;
   href?: string;
 }) => (

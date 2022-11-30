@@ -42,6 +42,8 @@ const Home: NextPage = () => {
           twitter={story.twitter}
           github={story.github}
           website={story.website}
+          email={story.email}
+          linkedin={story.linkedin}
           technologies={story.technologies}
         />
 

@@ -13,12 +13,11 @@ export const dateFormat = "MMM YYYY";
     "start": "2022-04-01T00:00:00Z",
     "end": "2022-08-31T00:00:00Z",
     "technologies": [
-        "mm2-libs", "crypto",
+        "mm2-libs", "flutter-sdks","crypto",
         "android",
-        "ios",
+        "ios","java",
         "flutter",
-        "dart",
-        "firebase"
+        "dart"
     ],
     "icon": "kmd"
 },**/
