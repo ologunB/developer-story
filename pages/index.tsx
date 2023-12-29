@@ -52,7 +52,7 @@ const Home: NextPage = () => {
           <Experiences items={story.experiences} />
         </Column>
 
-        <TitleDivider title={`OPEN SOURCE (${story.opensource.length})`} />
+        {/* <TitleDivider title={`OPEN SOURCE (${story.opensource.length})`} />
         <Column>
           <OpenSourceSoftwares
             items={Object.entries(data.oss).map(([name, item]) => ({
@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               name,
             }))}
           />
-        </Column>
+        </Column> */}
 
         <TitleDivider
           title={`APPS & SOFTWARE (${story.applications.length})`}
