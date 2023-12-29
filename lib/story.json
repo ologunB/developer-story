@@ -52,6 +52,7 @@
       "website": "https://komodoplatform.com/en/",
       "description": "\n●  Part of a global team creating dex for crypto and maintaining the alpha version of the software using mainly Dart, Flutter and Java.\n\n ●  Developed and maintained mobile applications for iOS and Android platforms, contributing to a user base of 1,000/month.",
       "start": "2022-04-01T00:00:00Z",
+      "end": "2023-05-02T00:00:00Z",
       "technologies": [
         "mm2-libs",
         "flutter-sdks",
