@@ -1,332 +1,414 @@
 {
-    "name": "Temitope Ologunbaba",
-    "description": "Think. Code. Love.",
-    "image_url": "https://bit.ly/3uP4rDV",
-    "occupation": "Software Engineer",
-    "location": "Lagos, Nigeria",
-    "email": "ologunbabatope@gmail.com",
-    "linkedin": "https://linkedin.com/in/ologunb",
-    "twitter": "MasterTope_",
-    "github": "ologunb",
-    "website": "https://ologunb.vercel.app",
-    "technologies": [
-        "dartlang",
+  "name": "Temitope Ologunbaba",
+  "description": "Think. Code. Love.",
+  "image_url": "https://bit.ly/3uP4rDV",
+  "occupation": "Software Engineer",
+  "location": "Lagos, Nigeria",
+  "email": "ologunbabatope@gmail.com",
+  "linkedin": "https://linkedin.com/in/ologunb",
+  "twitter": "MasterTope_",
+  "github": "ologunb",
+  "website": "https://ologunb.vercel.app",
+  "technologies": [
+    "dart",
+    "flutter",
+    "java",
+    "nodejs",
+    "hmtl-css",
+    "google-cloud",
+    "javascript",
+    "firebase",
+    "android",
+    "ios",
+    "flutter-web",
+    "react",
+    "react-native"
+  ],
+  "experiences": [
+    {
+      "name": "Mobile Engineer",
+      "company": "Ohminc Inc",
+      "website": "https://www.tastebuds.space/",
+      "description": "\n●  Specialize in developing mobile applications using Flutter and Dart. \n●   Integrate advanced features like push notifications and deep linking to enhance user interaction.\n●   Handle the complete app development lifecycle, from design to deployment.\n●   Focus on delivering a seamless and intuitive user experience in all applications.\n●   Uphold high standards of code quality and performance in app development.\n●   Manage app uploads to the Play Store and App Store, ensuring compliance and smooth launch.",
+      "start": "2022-07-01T00:00:00Z",
+      "technologies": [
         "flutter",
+        "dart",
+        "firebase",
+        "android",
+        "ios",
+        "git",
+        "json",
+        "rest api",
+        "google play services",
+        "xcode",
+        "deep linking"
+      ],
+      "icon": "taste"
+    },
+    {
+      "name": "Mobile Engineer",
+      "company": "Komodo Inc",
+      "website": "https://komodoplatform.com/en/",
+      "description": "\n●  Part of a global team creating dex for crypto and maintaining the alpha version of the software using mainly Dart, Flutter and Java.\n\n ●  Developed and maintained mobile applications for iOS and Android platforms, contributing to a user base of 1,000/month.",
+      "start": "2022-04-01T00:00:00Z",
+      "technologies": [
+        "mm2-libs",
+        "flutter-sdks",
+        "crypto",
+        "android",
+        "ios",
         "java",
-        "google-cloud-firestore",
-        "javascript", "firebase", "android", "ios", "flutter-web"
-    ],
-    "experiences": [{
-            "name": "Mobile Engineer",
-            "company": "Komodo Inc",
-            "website": "https://komodoplatform.com/en/",
-            "description": "\n●  Part of a global team creating dex for crypto and maintaining the alpha version of the software using mainly Dart, Flutter and Java.\n●  Developed and maintained mobile applications for iOS and Android platforms, contributing to a user base of 1,000/month.",
-            "start": "2022-04-01T00:00:00Z",
-            "end": "2023-05-01T00:00:00Z",
-            "technologies": [
-                "mm2-libs", "flutter-sdks", "crypto",
-                "android",
-                "ios", "java",
-                "flutter",
-                "dart"
-            ],
-            "icon": "kmd"
-        }, {
-            "name": "Mobile Engineer",
-            "company": "GladePay Inc",
-            "website": "https://www.glade.ng",
-            "description": "Worked in a team to develop and maintain mobile applications and services using mainly Dart, Java and using Agile/SCRUM as methodology on Trello.",
-            "start": "2021-09-01T00:00:00Z",
-            "end": "2022-06-02T00:00:00Z",
-            "technologies": [
-                "android",
-                "ios",
-                "flutter",
-                "dart",
-                "firebase"
-            ],
-            "icon": "glade"
-        },
-        {
-            "name": "Senior Mobile Engineer",
-            "company": "ASA",
-            "website": "http://www.africastrategyadvisers.com/",
-            "description": "Worked in a Business Advisory, Venture Incubation & Investor Matching services company to develop and maintain mobile applications and services using mainly Dart, Java and using Agile/SCRUM as methodology on Clickup.",
-            "start": "2021-05-01T00:00:00Z",
-            "end": "2022-06-31T00:00:00Z",
-            "technologies": [
-                "android",
-                "ios",
-                "flutter",
-                "dart",
-                "firebase"
-            ],
-            "icon": "asa"
-        },
-        {
-            "name": "Senior Mobile Engineer",
-            "company": "eSoft Response",
-            "website": "https://esoftresponse.com",
-            "description": "I built and handle all things Mobile applications on a daily basis, Backend with Node or Firebase, Mobile with Flutter.",
-            "start": "2021-06-01T00:00:00Z",
-            "end": "2021-10-31T00:00:00Z",
-            "technologies": [
-                "android",
-                "ios",
-                "flutter",
-                "dart",
-                "firebase",
-                "nodejs"
-            ],
-            "icon": "esoft"
-        },
-        {
-            "name": "Software Engineer",
-            "company": "Checkboard Ltd",
-            "website": "https://checkboard.com",
-            "description": "I handled all things Mobile app and web app, Frontend with Flutter, Consuming APIs, Mobile with Flutter.",
-            "start": "2021-06-01T00:00:00Z",
-            "end": "2021-10-31T00:00:00Z",
-            "technologies": [
-                "android",
-                "ios",
-                "flutter",
-                "dart",
-                "firebase",
-                "web"
-            ],
-            "icon": "checkboard"
-        },
-        {
-            "name": "Mobile Engineer",
-            "company": "Sprinthub Ltd",
-            "website": "https://sprinthub.com",
-            "description": "I handled all things Mobile. Consuming APIs and Mobile with Flutter.",
-            "start": "2020-11-01T00:00:00Z",
-            "end": "2021-04-31T00:00:00Z",
-            "technologies": [
-                "android",
-                "ios",
-                "flutter",
-                "dart",
-                "firebase"
-            ],
-            "icon": "sprinthub"
-        }
-    ],
-    "opensource": [
-        "ologunb/tweet_sche",
-        "ologunb/Prozone"
-
-    ],
-    "applications": [{
-            "name": "Trendupp",
-            "date": "2022-05-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "fcm-notification",
-                "dart", "google-auth", "apple-auth", "fb-auth"
-            ],
-            "description": "Trendupp is a platform that enables influencers & content creators receive support and build direct relationships with their fans while publishing exclusive content. Trendupp is the easiest way for your audience to say thanks on both iOS and Android using Flutter and Dart",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.trendup.app&hl=en",
-                "ios": "https://apps.apple.com/us/app/trendupp/id1502541954"
-            },
-            "icon": "trendupp"
-        },
-        {
-            "name": "TriviaBlog Africa",
-            "date": "2022-03-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "fcm-notification",
-                "dart", "firebase", "payment-integration"
-            ],
-            "description": "Trivia Blog App aims to improve the quest for knowledge by rewarding users for answering random questions on the app. Questions are available at random times during the day. Winners are then picked based on the first right answer and other criteria on both iOS and Android using Flutter and Dart",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.trivia.apppp&hl=en",
-                "ios": "https://apps.apple.com/us/app/trivia-blog-africa/id1628552764"
-            },
-            "icon": "trivia"
-        },
-        {
-            "name": "Glade",
-            "date": "2022-01-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "fcm-notification",
-                "dart",
-                "firebase"
-            ],
-            "description": "Glade is a Fintech company with a vision to make payment of bills, airtime, transfer, funding, paymemnt splitting, virtual cards transactions seamless. I Led a mobile team for the development of the company's v2 app on both iOS and Android using Flutter and Dart",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=gladepay.package.gladepaymanger&hl=en",
-                "ios": "https://apps.apple.com/ng/app/glade/id1532047379"
-            },
-            "icon": "glade"
-        },
-        {
-            "name": "OneWay",
-            "date": "2021-02-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions",
-                "fcm-notification",
-                "maps",
-                "google-services",
-                "deep-link",
-                "java", "background-services"
-            ],
-            "description": "A ride hailing application that connects riders and drivers moving in the same direction, drivers register with the company and get checked, stops are allocated to each driver according to stops on the platform, drivers can drop at any point between stops after paying and checked in by drivers, drivers are tracked in real time and seen by riders. Just like Uber. Has over 1k downloads on the stores.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=ng.oneway.rider.prod&hl=en",
-                "web": "https://drive.google.com/file/d/1sWSTCXPXEGvn3rEhjJEqb-jOJZbRXO93/view"
-
-            },
-            "icon": "oneway"
-        },
-        {
-            "name": "Ideasmarketplace",
-            "date": "2021-04-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "one-signal"
-            ],
-            "description": "Ideasmarketplace is a platform you can put your ideas, patents, utility models, design, business plans, copyrights and trademarks up for sale or out-licensing. You can also use Ideasmarketplace to search for ideas and innovations to purchase. I worked in a team to pull this off within 2 months, converted the UI to screens and integrated APIs to it. ",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.ideasmarket.app&hl=en"
-            },
-            "icon": "ideas"
-        },
-        {
-            "name": "Skidster: Freight Matching App",
-            "date": "2021-10-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions",
-                "fcm-notification"
-            ],
-            "description": "Skidster helps in connecting seamlessly with truckers, shippers and transporters in Canada and the United States.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.skidster.apps&hl=en",
-                "ios": "https://apps.apple.com/us/app/skidster/id1586538641"
-            },
-            "icon": "skidster"
-        }, {
-            "name": "FABAT",
-            "date": "2019-08-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase", "java",
-                "cloud-functions",
-                "fcm-notification", "geolocation", "map"
-            ],
-            "description": "FABAT Provides a virtual marketplace to connect mechanics and customers.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.mechanics.mechapp",
-                "ios": "https://apps.apple.com/us/app/fabat/id1533732268"
-            },
-            "icon": "fabat"
-        },
-        {
-            "name": "AutoServe",
-            "date": "2020-08-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions",
-                "fcm-notification", "geolocation", "map"
-            ],
-            "description": "Autoserve helps connect both vehicle owners and auto service providers. You can register as either a car owner or a service station.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.autoserveng.autoserve&hl=en",
-                "ios": "https://apps.apple.com/us/app/autoserve/id1550796255"
-            },
-            "icon": "serve"
-        },
-        {
-            "name": "Process Serving & Court Filing",
-            "date": "2021-11-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions", "geolocation", "map",
-                "fcm-notification", "stripe", "rest", "webview"
-            ],
-            "description": "Process Serving & Court Filing works in the US and Canada to get servers(people) that can help deliver court filing and servings to other people. They get nearby servers  using geolocation and send notifications to servers in a chosen radius. The server condoms if payment has been made through stripe and go on with the serving",
-            "links": {
-                "ios": "https://play.google.com/store/apps/details?id=com.courtrunner.user",
-                "android": "https://play.google.com/store/apps/details?id=com.courtrunner.server"
-            },
-            "icon": "server"
-        },
-        {
-            "name": "CubicLease: Lease houses",
-            "date": "2021-08-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions", "java", "swift",
-                "fcm-notification", "deep-link", "rest", "payment-integration", "Open banking(Tink SDK and TrueLayer SDK)"
-            ],
-            "description": "Checkboard is a service which allows people to save time when applying for your next home to buy or rent. We make things easy by taking a simple approach through our App to capture details about you. We confirm your identity through advanced AI techniques, capture your employment situation and connect you directly through open banking, to your financial accounts to verify your income, regular expenditures to complete your application.",
-            "links": {
-                "ios": "https://itunes.apple.com/us/app/givenow-ng/id1403238206?mt=8&ign-mpt=uo%3D4",
-                "android": "https://play.google.com/store/apps/details?id=com.checkboardlondon.app"
-            },
-            "icon": "check"
-        },
-        {
-            "name": "IntaChurch",
-            "date": "2021-05-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions",
-                "fcm-notification"
-            ],
-            "description": "A Church management app used to manage events, watch Youtube videos, schedule events, view family connections.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.instachurch.app&hl=en",
-                "ios": "https://apps.apple.com/gb/app/intachurch/id1569631216"
-            },
-            "icon": "church"
-        },
-        {
-            "name": "MoneyStory",
-            "date": "2021-04-01T00:00:00Z",
-            "technologies": [
-                "flutter",
-                "firebase",
-                "cloud-functions",
-                "fcm-notification"
-            ],
-            "description": "The Money Story App is a financial wellbeing coaching tool that helps you achieve a positive sense of wellbeing as you live out your financial life. Our digital coaching experiences harness the power of reflection to help develop positive money behaviours and improve your relationship with money.",
-            "links": {
-                "android": "https://play.google.com/store/apps/details?id=com.moneystory&hl=en"
-            },
-            "icon": "money"
-        }
-    ],
-    "artifacts": [{
-        "name": "Saturday Flutter Experiments",
-        "url": "https://twitter.com/i/events/1486311891072806912",
-        "date": "2021-01-01T00:00:00Z",
-        "technologies": [
-            "flutter",
-            "flutter-animation",
-            "flutter-layout"
-        ],
-        "description": "I joined in a series of experimental user interfaces challenges built entirely in Flutter done weekly.",
-        "icon": "twitter"
-    }],
-    "tools": [
-        "Android Studio",
-        "IntelliJ",
-        "VSCode",
-        "https://javiercbk.github.io/json_to_dart/"
-    ]
+        "flutter",
+        "dart"
+      ],
+      "icon": "kmd"
+    },
+    {
+      "name": "Mobile Engineer",
+      "company": "GladePay Inc",
+      "website": "https://gladefinance.co/",
+      "description": "Worked in a team to develop and maintain mobile applications and services using mainly Dart, Java and using Agile/SCRUM as methodology on Trello.",
+      "start": "2021-09-01T00:00:00Z",
+      "end": "2022-06-02T00:00:00Z",
+      "technologies": ["android", "ios", "flutter", "dart", "firebase"],
+      "icon": "glade"
+    },
+    {
+      "name": "Senior Mobile Engineer",
+      "company": "ASA",
+      "website": "http://www.africastrategyadvisers.com/",
+      "description": "Worked in a Business Advisory, Venture Incubation & Investor Matching services company to develop and maintain mobile applications and services using mainly Dart, Java and using Agile/SCRUM as methodology on Clickup.",
+      "start": "2021-05-01T00:00:00Z",
+      "end": "2022-06-31T00:00:00Z",
+      "technologies": ["android", "ios", "flutter", "dart", "firebase"],
+      "icon": "asa"
+    },
+    {
+      "name": "Senior Mobile Engineer",
+      "company": "eSoft Response",
+      "website": "https://esoftresponse.com",
+      "description": "I built and handle all things Mobile applications on a daily basis, Backend with Node or Firebase, Mobile with Flutter.",
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2021-10-31T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "flutter",
+        "dart",
+        "firebase",
+        "nodejs"
+      ],
+      "icon": "esoft"
+    },
+    {
+      "name": "Software Engineer",
+      "company": "Checkboard Ltd",
+      "website": "https://checkboard.com",
+      "description": "I handled all things Mobile app and web app, Frontend with Flutter, Consuming APIs, Mobile with Flutter.",
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2021-10-31T00:00:00Z",
+      "technologies": ["android", "ios", "flutter", "dart", "firebase", "web"],
+      "icon": "checkboard"
+    },
+    {
+      "name": "Mobile Engineer",
+      "company": "Sprinthub Ltd",
+      "website": "https://sprinthub.com",
+      "description": "I handled all things Mobile. Consuming APIs and Mobile with Flutter.",
+      "start": "2020-11-01T00:00:00Z",
+      "end": "2021-04-31T00:00:00Z",
+      "technologies": ["android", "ios", "flutter", "dart", "firebase"],
+      "icon": "sprinthub"
+    }
+  ],
+  "opensource": ["ologunb/tweet_sche", "ologunb/Prozone"],
+  "applications": [
+    {
+      "name": "DLYA USA",
+      "date": "2023-10-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "firebase",
+        "one-signal",
+        "web-socket",
+        "realtime"
+      ],
+      "description": "Developed a specialized mobile application for the Deeper Life Bible Church, aimed at college-aged and young professional adults. The app focuses on spiritual growth, offering resources like videos, books, articles, and speaker sessions. It also provides information about annual conferences across the Southeastern United States, with past events in Atlanta, GA, Kinston, NC, and Washington, D.C.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.dlya.app",
+        "ios": "https://apps.apple.com/ng/app/dlya-usa/id1669618644"
+      },
+      "icon": "dlya"
+    },
+    {
+      "name": "Reviel",
+      "date": "2023-11-01T00:00:00Z",
+      "technologies": ["flutter", "fcm-notification", "dart", "firebase"],
+      "description": "I led the development of Reviel, a lending data analytics and service companion app. Focused on enhancing financial literacy and responsible lending, the app streamlines loan management processes. It simplifies tracking and managing loans, repayments, and interests, thereby reducing potential disagreements and disputes between borrowers and lenders.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.reviel.app",
+        "ios": "https://apps.apple.com/ng/app/reviel/id6474141055"
+      },
+      "icon": "reviel"
+    },
+    {
+      "name": "ZoperPay",
+      "date": "2023-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "firebase",
+        "payment",
+        "virtual-cards"
+      ],
+      "description": "I led and mainly participated to the development of Zoperpay mobile app, a cutting-edge app facilitating global money transfers. Designed to serve migrants, students, and businesses, the app streamlines international transactions with low fees and robust security. Key features include the ability to send money to over 20 countries, provision of virtual cards for online purchases, a user-friendly interface for easy transaction management, and stringent security measures to ensure safe transfers. Zoperpay stands out for its commitment to cost-effective and hassle-free borderless transactions.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.zoperpay.app",
+        "ios": "https://apps.apple.com/ng/app/zoperpay/id6472654502"
+      },
+      "icon": "zoperpay"
+    },
+    {
+      "name": "Flagmode",
+      "date": "2022-12-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "cloud-functions",
+        "messaging",
+        "firebase"
+      ],
+      "description": "I developed Flagmode, an innovative app designed for Nigerians living abroad. The app addresses the challenges of expatriate life by providing easy access to indigenous resources and fostering community connections. It enables users to share experiences, organize meet-ups, and adapt to new countries and cultures, thereby enhancing their sense of belonging in foreign lands.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.flagmode.appp",
+        "ios": "https://apps.apple.com/ng/app/flagmode/id6469520708"
+      },
+      "icon": "flagmode"
+    },
+    {
+      "name": "Trendupp",
+      "date": "2022-05-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "google-auth",
+        "apple-auth",
+        "fb-auth"
+      ],
+      "description": "Solely led and developed Trendupp, a platform designed to empower influencers and content creators by enabling them to build direct relationships with their fans and publish exclusive content. As the primary architect, I utilized Flutter and Dart to ensure a robust and seamless user experience across both iOS and Android. Trendupp stands out as an intuitive way for audiences to show appreciation and support, enhancing the creator-fan connection in the digital space.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.trendup.app&hl=en",
+        "ios": "https://apps.apple.com/us/app/trendupp/id1502541954"
+      },
+      "icon": "trendupp"
+    },
+    {
+      "name": "TriviaBlog Africa",
+      "date": "2022-03-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "firebase",
+        "payment-integration"
+      ],
+      "description": "Contributed to the development of the Trivia Blog App, an innovative platform designed to enhance knowledge acquisition by rewarding users for correctly answering random trivia questions. The app features a dynamic question availability system, presenting queries at various times throughout the day. Winners are selected based on accuracy and additional criteria. Developed for both iOS and Android using Flutter and Dart, this app combines education with engagement in a user-friendly format.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.trivia.apppp&hl=en",
+        "ios": "https://apps.apple.com/us/app/trivia-blog-africa/id1628552764"
+      },
+      "icon": "trivia"
+    },
+    {
+      "name": "Glade",
+      "date": "2022-01-01T00:00:00Z",
+      "technologies": ["flutter", "fcm-notification", "dart", "firebase"],
+      "description": "Led the mobile development team at Glade, a Fintech company focused on simplifying financial transactions such as bill payments, airtime top-ups, transfers, fund management, payment splitting, and virtual card transactions. Spearheaded the creation of the company's version 2 app for both iOS and Android platforms, utilizing Flutter and Dart for seamless cross-platform functionality.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=gladepay.package.gladepaymanger&hl=en",
+        "ios": "https://apps.apple.com/ng/app/glade/id1532047379"
+      },
+      "icon": "glade"
+    },
+    {
+      "name": "OneWay",
+      "date": "2021-02-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "fcm-notification",
+        "maps",
+        "google-services",
+        "deep-link",
+        "java",
+        "background-services"
+      ],
+      "description": "Contributed to the development of a ride-hailing application akin to Uber, designed to connect riders with drivers moving in similar directions. Key features include driver registration and vetting, allocated stop-based routing, flexible drop-off points, and real-time driver tracking visible to riders. Successfully launched with over 1,000 downloads across app stores, the app streamlines urban transportation by offering convenient and efficient travel solutions.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=ng.oneway.rider.prod&hl=en",
+        "web": "https://drive.google.com/file/d/1sWSTCXPXEGvn3rEhjJEqb-jOJZbRXO93/view"
+      },
+      "icon": "oneway"
+    },
+    {
+      "name": "Ideasmarketplace",
+      "date": "2021-04-01T00:00:00Z",
+      "technologies": ["flutter", "firebase", "one-signal"],
+      "description": "Collaborated in a team to successfully develop Ideasmarketplace, a comprehensive platform for buying, selling, and licensing intellectual properties including patents, utility models, designs, business plans, copyrights, and trademarks. Within a tight 2-month timeframe, my key contributions included converting UI designs to functional screens and integrating APIs to enhance the platform's capability for seamless transactions and searches for innovative ideas and inventions.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.ideasmarket.app&hl=en"
+      },
+      "icon": "ideas"
+    },
+    {
+      "name": "Skidster: Freight Matching App",
+      "date": "2021-10-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "fcm-notification"
+      ],
+      "description": "I developed Skidster, an innovative app that facilitates smooth connections between truckers, shippers, and transporters across Canada and the United States. The platform streamlines the process of coordinating transportation needs, enhancing efficiency in the logistics industry.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.skidster.apps&hl=en",
+        "ios": "https://apps.apple.com/us/app/skidster/id1586538641"
+      },
+      "icon": "skidster"
+    },
+    {
+      "name": "FABAT",
+      "date": "2019-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "java",
+        "cloud-functions",
+        "fcm-notification",
+        "geolocation",
+        "map"
+      ],
+      "description": "Contributed to the development of FABAT, a virtual marketplace app designed to seamlessly connect mechanics with customers. The platform facilitates easy access to automotive services for users, streamlining the process of finding reliable mechanics.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.mechanics.mechapp",
+        "ios": "https://apps.apple.com/us/app/fabat/id1533732268"
+      },
+      "icon": "fabat"
+    },
+    {
+      "name": "AutoServe",
+      "date": "2020-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "fcm-notification",
+        "geolocation",
+        "map"
+      ],
+      "description": "Played a pivotal role in creating Autoserve, an app that bridges the gap between vehicle owners and auto service providers. The platform offers dual registration capabilities, allowing users to sign up either as car owners seeking services or as service stations offering auto care solutions.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.autoserveng.autoserve&hl=en",
+        "ios": "https://apps.apple.com/us/app/autoserve/id1550796255"
+      },
+      "icon": "serve"
+    },
+    {
+      "name": "Process Serving & Court Filing",
+      "date": "2021-11-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "geolocation",
+        "map",
+        "fcm-notification",
+        "stripe",
+        "rest",
+        "webview"
+      ],
+      "description": "Single hendedly developed Process Serving & Court Filing app operational in the US and Canada. This innovative platform connects clients with nearby servers using geolocation technology, facilitating efficient court filings and document servings. It features an integrated notification system to alert servers within a specified radius and incorporates Stripe for secure payment confirmations, ensuring a seamless and reliable service process.",
+      "links": {
+        "ios": "https://play.google.com/store/apps/details?id=com.courtrunner.user",
+        "android": "https://play.google.com/store/apps/details?id=com.courtrunner.server"
+      },
+      "icon": "server"
+    },
+    {
+      "name": "CubicLease: Lease houses",
+      "date": "2021-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "java",
+        "swift",
+        "fcm-notification",
+        "deep-link",
+        "rest",
+        "payment-integration",
+        "Open banking(Tink SDK and TrueLayer SDK)"
+      ],
+      "description": "Contributed to the development of Checkboard, a revolutionary service designed to simplify the home buying or renting process. The app streamlines applications by capturing personal details through a user-friendly interface, leveraging advanced AI for identity verification, and integrating open banking to assess financial status. It efficiently confirms employment, income, and expenditure details, significantly reducing the time and complexity typically associated with property applications.",
+      "links": {
+        "ios": "https://itunes.apple.com/us/app/givenow-ng/id1403238206?mt=8&ign-mpt=uo%3D4",
+        "android": "https://play.google.com/store/apps/details?id=com.checkboardlondon.app"
+      },
+      "icon": "check"
+    },
+    {
+      "name": "IntaChurch",
+      "date": "2021-05-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "fcm-notification"
+      ],
+      "description": "Developed a comprehensive Church Management App, designed to streamline event management and enhance community engagement. The app integrates functionality for scheduling events, watching YouTube videos, managing family connections, and more, offering an all-in-one solution for modern church administration and member interaction.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.instachurch.app&hl=en",
+        "ios": "https://apps.apple.com/gb/app/intachurch/id1569631216"
+      },
+      "icon": "church"
+    },
+    {
+      "name": "MoneyStory",
+      "date": "2021-04-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "cloud-functions",
+        "fcm-notification"
+      ],
+      "description": "Worked on the Money Story App, a digital financial wellbeing coaching tool designed to enhance users' financial lives. This innovative app leverages reflective practices to foster positive money behaviors and improve users' relationships with their finances. Through its unique digital coaching experiences, it empowers individuals to achieve greater financial wellbeing.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.moneystory&hl=en"
+      },
+      "icon": "money"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Saturday Flutter Experiments",
+      "url": "https://twitter.com/i/events/1486311891072806912",
+      "date": "2021-01-01T00:00:00Z",
+      "technologies": ["flutter", "flutter-animation", "flutter-layout"],
+      "description": "I joined in a series of experimental user interfaces challenges built entirely in Flutter done weekly.",
+      "icon": "twitter"
+    }
+  ],
+  "tools": [
+    "Android Studio",
+    "IntelliJ",
+    "VSCode",
+    "https://javiercbk.github.io/json_to_dart/"
+  ]
 }
