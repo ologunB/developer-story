@@ -8,7 +8,7 @@
   "linkedin": "https://linkedin.com/in/ologunb",
   "twitter": "MasterTope_",
   "github": "ologunb",
-  "website": "https://ologunb.vercel.app",
+  "website": "https://ologunb.github.io/portfolio/",
   "technologies": [
     "dart",
     "flutter",
@@ -26,11 +26,37 @@
   ],
   "experiences": [
     {
+      "name": "Lead Engineer",
+      "company": "Dots Inc",
+      "website": "https://www.hello-dots.com/",
+      "description": "As the Lead Engineer, I oversee the development and deployment of both development and production servers, ensuring seamless operations. I write Flask backend solutions to power our platform and use Dart to enhance our mobile app's user experience. My role is pivotal in aligning technology with our vision to strengthen family wellbeing through community connections.",
+      "start": "2024-01-01T00:00:00Z",
+      "technologies": [
+        "python",
+        "flask",
+        "airtable-db",
+        "react",
+        "flutter",
+        "dart",
+        "firebase",
+        "android",
+        "ios",
+        "git",
+        "json",
+        "rest api",
+        "google play services",
+        "xcode",
+        "deep linking"
+      ],
+      "icon": "dots"
+    },
+    {
       "name": "Mobile Engineer",
       "company": "Ohminc Inc",
       "website": "https://www.tastebuds.space/",
-      "description": "\n●  Specialize in developing mobile applications using Flutter and Dart. \n●   Integrate advanced features like push notifications and deep linking to enhance user interaction.\n●   Handle the complete app development lifecycle, from design to deployment.\n●   Focus on delivering a seamless and intuitive user experience in all applications.\n●   Uphold high standards of code quality and performance in app development.\n●   Manage app uploads to the Play Store and App Store, ensuring compliance and smooth launch.",
+      "description": "Specialize in developing mobile applications using Flutter and Dart, integrating advanced features like push notifications and deep linking to enhance user interaction, while managing the complete app development lifecycle from design to deployment. Focused on delivering seamless, intuitive user experiences, maintaining high standards of code quality and performance, and overseeing app uploads to the Play Store and App Store for compliant and smooth launches.",
       "start": "2023-07-01T00:00:00Z",
+      "end": "2024-05-02T00:00:00Z",
       "technologies": [
         "flutter",
         "dart",
@@ -50,7 +76,7 @@
       "name": "Mobile Engineer",
       "company": "Komodo Inc",
       "website": "https://komodoplatform.com/en/",
-      "description": "\n●  Part of a global team creating dex for crypto and maintaining the alpha version of the software using mainly Dart, Flutter and Java.\n\n ●  Developed and maintained mobile applications for iOS and Android platforms, contributing to a user base of 1,000/month.",
+      "description": "Collaborated with a global team to develop a decentralized exchange (DEX) for cryptocurrency, maintaining the alpha version of the software using Dart, Flutter, and Java. Contributed to the development and maintenance of mobile applications for iOS and Android, supporting a growing user base of 1,000+ monthly users.",
       "start": "2022-04-01T00:00:00Z",
       "end": "2023-05-02T00:00:00Z",
       "technologies": [
@@ -125,6 +151,73 @@
   ],
   "opensource": ["ologunb/tweet_sche", "ologunb/Prozone"],
   "applications": [
+    {
+      "name": "Dots",
+      "date": "2024-10-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "firebase",
+        "one-signal",
+        "web-socket",
+        "realtime"
+      ],
+      "description": "I designed and developed intuitive, responsive, and high-performing mobile app features using Dart. I focus on enhancing user experience, integrating APIs, and ensuring seamless functionality that aligns with our vision of connecting families and fostering community engagement.",
+      "links": {},
+      "icon": "dots"
+    },
+    {
+      "name": "Hidey",
+      "date": "2024-06-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "encryption",
+        "sodium_libs",
+        "ffmpeg_kit",
+        "realtime",
+        "provider"
+      ],
+      "description": "For Hidey App, I developed secure and user-friendly Flutter interfaces using Dart, focusing on safeguarding media and text. I implemented robust encryption and access control features, ensuring users could securely store their sensitive data and share it only with authorized individuals.",
+      "links": {},
+      "icon": "hidey"
+    },
+    {
+      "name": "XexoPay",
+      "date": "2024-02-01T00:00:00Z",
+      "technologies": [
+        "php",
+        "laravel",
+        "sql",
+        "google play services",
+        "paystack",
+        "flutter",
+        "fcm-notification",
+        "dart"
+      ],
+      "description": "As the Lead Engineer for XexoPay, I spearheaded the development and deployment of a robust fintech platform. I utilized Laravel for backend services, Dart for mobile application development, and managed SQL databases to ensure secure and efficient data handling. My role involved implementing features for seamless transfers, bill payments, virtual cards, and other financial services. I optimized system performance, ensured secure transaction processing, and maintained scalability. Additionally, I oversaw deployment pipelines and coordinated cross-functional efforts to deliver a reliable and user-centric fintech solution.",
+      "links": {},
+      "icon": "xexo"
+    },
+    {
+      "name": "GRIP",
+      "date": "2023-12-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "fcm-notification",
+        "dart",
+        "firebase",
+        "ffmpeg",
+        "video-audio",
+        "realtime",
+        "social-media"
+      ],
+      "description": "Grip, a church social media app for Christians, I single-handedly designed and developed both the creator and user functionalities. I implemented features for posting and editing videos, text, and audio, creating an engaging platform for community interaction. My work included building intuitive user interfaces, robust backend systems, and seamless content management to ensure a user-friendly experience. The app empowers users to share faith-based content while fostering a connected Christian community.",
+      "links": {},
+      "icon": "grip"
+    },
     {
       "name": "DLYA USA",
       "date": "2023-10-01T00:00:00Z",
